@@ -1,1 +1,1 @@
-# Customer-churn-predictionn
+Created a churn prediction model for a telecom company,using LightGBM(93.6% recall), correctly identifying 147 out of 157 churners, minimizing missed cases. • Implemented a churn risk score system using SVM(ROC-AUC: 89.8%), supporting data-driven customer strategies. • Introduced a ”CHURN-FLAG” variable to flag high-risk customers, improving targeted engagement. • Structured a customer segmentation model(High, Medium, Low Risk) for 105+ high-priority customers, enhancing per sonalized interventions.
